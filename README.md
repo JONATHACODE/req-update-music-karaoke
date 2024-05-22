@@ -5,7 +5,7 @@
 ## Fitur Utama
 - **Formulir Permintaan Lagu**: Pelanggan dapat dengan mudah mengisi permintaan update lagu melalui formulir online.
 - **Manajemen Data**: Data permintaan lagu disimpan secara aman di database.
-- **Antarmuka Admin**: Admin dapat melihat, dan mengelola permintaan lagu dari pelanggan.
+- **Antarmuka Admin**: Admin dapat melihat dan mengelola permintaan lagu dari pelanggan.
 
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman**: PHP
